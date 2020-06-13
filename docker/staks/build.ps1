@@ -1,0 +1,1 @@
+docker-compose -p teste up -d --remove-orphans

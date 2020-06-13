@@ -1,0 +1,1 @@
+docker-compose -p teste rm -f
